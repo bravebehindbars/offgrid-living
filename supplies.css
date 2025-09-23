@@ -1,0 +1,17 @@
+body {
+      font-family: 'goth', serif;
+      font-size: 40px;
+      color: green;
+    background-color: black;
+background-repeat: no-repeat; 
+}
+a {
+      color: darkorange;
+      text-decoration: none;
+}
+ 
+      a:hover {
+            color: darkred;
+      }
+
+
